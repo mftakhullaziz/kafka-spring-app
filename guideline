@@ -1,0 +1,5 @@
+running kafka broker :
+./bin/kafka-server-start.sh config/server.properties
+
+running zookeeper broker :
+./bin/zookeeper-server-start.sh config/zookeeper.properties
